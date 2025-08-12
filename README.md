@@ -7,8 +7,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- 🌐 Frontend: HTML, CSS, JavaScript, React, TailwindCSS
-- 🗃️ Database Firebase
+- 🌐 Frontend: HTML, CSS, JavaScript, React, TailwindCSS,Nextjs,Typescript
+- 🗃️ Database Firebase,Supabase
 
 ---
 
