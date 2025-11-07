@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- 🌐 **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS, Next.js, TypeScript  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS, Next.js, TypeScript ,flutter
 - 🗃️ **Database:** Firebase, Supabase
 - Backend: Express js ,Golang
 
